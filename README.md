@@ -4,3 +4,6 @@
 [![LICENSE](https://img.shields.io/github/license/Romeo-Browne/patch2.svg?style=flat-square)
 
 [![Releases](https://img.shields.io/github/release/Romeo-Browne/patch2/all.svg?style=flat-square)](https://github.com/Romeo-Browne/patch2/releases)
+
+# Software Engineering Methods
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Romeo-Browne/patch2/.github/workflows/<branch>?style=flat-square)
