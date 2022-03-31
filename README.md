@@ -1,6 +1,2 @@
 
-
-
-![workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
-
-Hello world Sem-DEMO
+push to github
