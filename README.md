@@ -6,4 +6,4 @@
 [![Releases](https://img.shields.io/github/release/Romeo-Browne/patch2/all.svg?style=flat-square)](https://github.com/Romeo-Browne/patch2/releases)
 
 # Software Engineering Methods
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Romeo-Browne/patch2/A workflow for my Hello World App #2/master?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Romeo-Browne/patch2/A workflow for my Hello World App/develop?style=flat-square)
