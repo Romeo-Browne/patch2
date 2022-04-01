@@ -2,7 +2,9 @@
 
 
 
-# Software Engineering Methods
+Software Engineering Methods
+
+![Develop Build Status](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push
 
 ![workflow](https://github.com/Romeo-Browne/patch2/actions/workflows/main.yml/badge.svg)
 
