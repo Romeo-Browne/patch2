@@ -1,4 +1,5 @@
 
 
 
-![workflow](https://img.shields.io/github.com/Romeo-Browne/patch2.svg?style=flat-square)
+
+![build](https://github.com/Romeo-Browne/patch2/actions/workflows/main.yml/badge.svg)
