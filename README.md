@@ -14,4 +14,4 @@
 
 ![LICENSE](https://img.shields.io/github/license/Romeo-Browne/patch2.svg?style=flat-square)
 
-![Releases](https://img.shields.io/github/release/Romeo-Browne/patch2/all.svg?style=flat-square)
+!# Release [Releases](https://img.shields.io/github/release/Romeo-Browne/patch2/all.svg?style=flat-square)
