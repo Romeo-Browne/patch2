@@ -2,4 +2,4 @@
 
 
 
-![build](https://github.com/Romeo-Browne/patch2/actions/workflows/main.yml/badge.svg)
+![Develop Status Branch](https://img.shields.io/github/build/Romeo-Browne/patch2/all.svg?style=flat-square)
